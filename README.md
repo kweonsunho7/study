@@ -1,2 +1,2 @@
-# test
-this project is test
+# study
+this project is study
